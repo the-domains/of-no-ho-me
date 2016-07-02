@@ -1,0 +1,28 @@
+name: of no-ho me
+favicon: null
+layout_spectrum: 0.6397056956775486
+typography_spectrum: 0.9000945626758039
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7166368365287781
+  lightness: 0.06900127232074738
+  saturation: 0.27156622102484107
+  rhythmicContrast: 0.25785245397128165
+purpose: []
